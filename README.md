@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá, eu sou o Alexandre!
+💻 Desenvolvedor C e Python | Freelancer | Entusiasta de Hardware e Software
 
-<!--
-**AlexandreJr01/AlexandreJr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Tenho experiência no desenvolvimento de sistemas em C, incluindo simuladores de processador (MIPS monociclo, multiciclo e pipeline), além de projetos acadêmicos que envolvem lógica, estruturas de dados e manipulação de arquivos.
+🔹 Em Python, gosto de criar scripts de automação, ferramentas para análise de dados e aplicações práticas do dia a dia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Habilidades
+🔧 C (programação de baixo nível, simuladores, sistemas)
+🐍 Python ( scripts e análise de dados)
+🖥️ Estruturas de dados e algoritmos
+🗄️ Manipulação de arquivos e banco de dados
+🌍 Onde me encontrar
+📧 Email: jralexandre011@gmail.com
+💼 LinkedIn
