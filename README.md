@@ -5,7 +5,7 @@
 ---
 
 ### 🔹 Sobre mim
-Tenho experiência no desenvolvimento de sistemas em **C**, incluindo **simuladores de processador** (MIPS monociclo, multiciclo e pipeline), além de projetos acadêmicos que envolvem **lógica**, **estruturas de dados** e **manipulação de arquivos**.  
+Tenho experiência em **C**, já fiz **simuladores de processador** (MIPS monociclo, multiciclo e pipeline), além de projetos acadêmicos que envolvem **lógica**, **estruturas de dados** e **manipulação de arquivos**.  
 
 Em **Python**, gosto de criar **scripts de automação**, **ferramentas para análise de dados** e **aplicações práticas do dia a dia**.
 
