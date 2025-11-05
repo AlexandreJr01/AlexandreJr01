@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alexandre!
 
-💻 **Desenvolvedor C e Python** | Freelancer | Entusiasta de **Hardware e Software**
+💻 **Desenvolvedor C e Python Iniciante** | Freelancer **
 
 ---
 
