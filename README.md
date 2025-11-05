@@ -15,7 +15,7 @@ Em **Python**, gosto de criar **scripts de automação**, **ferramentas para an�
 
 - 🔧 **C** → Manipulação de Arquivos e Estruturas de dados 
 - 🐍 **Python** → scripts & automação
-- <i class="fab fa-git"></i> **Noções básicas de interação com HTML**
+- **JavaScript ** → Noções básicas de interação com HTML
 
 ### 🌍 Onde me encontrar
 
